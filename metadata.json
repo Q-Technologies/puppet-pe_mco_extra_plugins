@@ -1,0 +1,13 @@
+{
+  "name": "mco_plugins",
+  "version": "1.0.0",
+  "author": "Australia Post",
+  "summary": "Module to manage the mcollective plugins",
+  "license": "n/a",
+  "source": "https://hpligit0001.corp.auspost.local:8443/tree/puppet%2Fauspost-puppet.git/dev/auspost-modules%2Fmco_plugins",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [ ],
+  "data_provider": "hiera"
+}
+

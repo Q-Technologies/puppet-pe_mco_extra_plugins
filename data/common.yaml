@@ -1,0 +1,13 @@
+---
+pe_mco_extra_plugins::path: /opt/puppetlabs/mcollective/plugins/mcollective/
+pe_mco_extra_plugins::dirs: [ shell ]
+pe_mco_extra_plugins::files: 
+  agent:
+    - shell/job.rb
+    - shell.rb
+    - shell.ddl
+  application:
+    - shell.rb
+    - shell/watcher.rb
+    - shell/prefix_stream_buf.rb
+
